@@ -1,2 +1,5 @@
-# newMod
-In this repository, I will upload a mod that is written from scratch.
+# newMod - EN
+newMod - this is a personal mod, written from scratch, which will be improved if possible in the near future.
+
+# newMod - RU
+newMod - это личный мод, написанный с нуля, который будет дорабатываться по возможности в ближайшем будущем.
